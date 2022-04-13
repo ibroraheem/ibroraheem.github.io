@@ -316,7 +316,7 @@ a:hover {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #298eff;
+  background: black;
   color: #fff;
 }
 .back-to-top.active {
@@ -386,7 +386,7 @@ a:hover {
   outline: 0;
 }
 .button:hover {
-  background-color: #0062d3;
+  background-color: black;
   color: #fff;
   transition: all 500ms ease;
 }
@@ -1061,7 +1061,7 @@ a:hover {
   transition: 0.4s;
 }
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: black;
 }
 
 @-webkit-keyframes animate-loading {
